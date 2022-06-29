@@ -6,7 +6,7 @@ font-family: 'Allerta'; font-size: 1em;
 
 @font-face {
 font-family: "StreetExplorer";
-	    src: url(https://wayward.site/fonts/StreetExplorer.otf) format("opentype");
+	    src: url(URL) format("opentype");
 }
 
 li {
