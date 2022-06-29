@@ -36,6 +36,6 @@ In HTML, a code comment is formatted as follows:
 
 In CSS, a code comment is formatted as follows:
 ````
-css code comment
+/* css code comment */
 ````
 
